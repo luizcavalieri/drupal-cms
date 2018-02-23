@@ -3,3 +3,17 @@
 .sites/default/services.yml
 sites/default/settings.php
 sites/default/services.yml
+
+
+files
+sites/*/files
+sites/*/private
+
+/.settings/
+/.buildpath
+/.project
+settings.local.php
+.idea/
+themes/custom/eslim/assets/tmp/*
+
+sites/default/services.yml
